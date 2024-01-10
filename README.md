@@ -31,4 +31,4 @@ Licença
 Este projeto é licenciado sob a MIT License.
 
 
-Lembre-se de substituir `whatsapp_auto_add.py` pelo nome real do seu arquivo Python, se for dife
+
